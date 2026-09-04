@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 Developer • Linux Enthusiast • Homelab Nerd
 
-**Currently working on [Studly](#)**  
+**Currently working on [Studly](https://github.com/BrunoGC13/Studly)**  
 Learning **Python • JavaScript • DevOps**  
 Interested in **Linux • Networking • Servers • Open Source**
 
