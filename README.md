@@ -15,7 +15,6 @@ Interested in **Linux • Networking • Servers • Open Source**
 
 <br>
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/BrunoGC13)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@BrunoGlotz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@brunoglotz.com)
 
@@ -28,7 +27,7 @@ Interested in **Linux • Networking • Servers • Open Source**
 - 🔨 Currently working on **Studly**
 - 🐧 Wanting to contribute more to **Linux & Open Source**
 - 🐍 Learning **Python**
-- 🟨 Learning **JavaScript**
+- 🟨 Learning **TypeScript**
 - ☕ Learning **Java**
 - ⚙️ Following the **DevOps Learning Path**
 - 🏠 Building and experimenting with **Homelabs**
